@@ -1,0 +1,6 @@
+H:\Programming\Csharp\2019\CsharpBase64Encode\CsharpBase64Encode\bin\Debug\CsharpBase64Encode.exe.config
+H:\Programming\Csharp\2019\CsharpBase64Encode\CsharpBase64Encode\bin\Debug\CsharpBase64Encode.exe
+H:\Programming\Csharp\2019\CsharpBase64Encode\CsharpBase64Encode\bin\Debug\CsharpBase64Encode.pdb
+H:\Programming\Csharp\2019\CsharpBase64Encode\CsharpBase64Encode\obj\Debug\CsharpBase64Encode.csproj.CoreCompileInputs.cache
+H:\Programming\Csharp\2019\CsharpBase64Encode\CsharpBase64Encode\obj\Debug\CsharpBase64Encode.exe
+H:\Programming\Csharp\2019\CsharpBase64Encode\CsharpBase64Encode\obj\Debug\CsharpBase64Encode.pdb
